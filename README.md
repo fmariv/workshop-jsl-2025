@@ -6,6 +6,14 @@
 
 El taller va a estar muy basado en Python. Vamos a ver lo siguiente.
 
+1. [Introducción al EOTDL](notebooks/00_eotdl.ipynb)
+2. [Explorar y descargar datasets y modelos desde el EOTDL](notebooks/01_explorar_descargar.ipynb)
+3. [Crear un dataset](notebooks/02_crear_dataset.ipynb)
+4. [Ingestar un dataset en el EOTDL](notebooks/03_ingestar_dataset.ipynb)
+5. [Etiquetado automático con IA con SCANEO](notebooks/04_scaneo.ipynb)
+6. [Entrenar un modelo de AI4EO con PyTorchEO](notebooks/05_entrenar_modelo.ipynb)
+7. [Contribuir](notebooks/06_contribuir.ipynb)
+
 ## Cómo comenzar
 
 Hay varias maneras de seguir la sesión.
